@@ -28,6 +28,8 @@ public class GameController : MonoBehaviour
     //Verificando os Pontos do Canvas
     [SerializeField] private Text pontosTexto;
 
+    //Variável do Level
+
 
 
 
